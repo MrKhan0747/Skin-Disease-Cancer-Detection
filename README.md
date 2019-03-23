@@ -1,3 +1,3 @@
-#Skin Disease and Cancer Detection
+# Skin Disease and Cancer Detection
 
-##Deep Learning Methods*
+## Deep Learning Methods
